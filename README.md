@@ -1,5 +1,3 @@
-# Feynn-Labs-Task2
-
 # Feynn Labs Task 2 Repository
 
 This repository contains Python code for data analysis, dimensionality reduction, clustering, and visualization of the McDonald's dataset. The project is part of the task assigned by Feynn Labs.
